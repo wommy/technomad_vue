@@ -1,0 +1,12 @@
+{
+  "name": "technomad_vue",
+  "version": "2.0.0",
+  "description": "technomad built with vue",
+  "main": "index.js",
+  "repository": "git@github.com:wommy/technomad_vue.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
